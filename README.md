@@ -1,5 +1,7 @@
 # DeepLearning-Lab5
 
+Run the python file "main.py" to execute the code.
+
 The audio files should be of the format ".wav" or ".mp4"
 The code uses libraries like *librosa* and *tensorflow*. Make sure you have them installed.
 
